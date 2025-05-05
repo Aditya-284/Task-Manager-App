@@ -7,7 +7,6 @@ _Just Do It_, a simple and efficient Android To-Do application that helps users 
 - Create, edit, and delete tasks
 - Mark tasks as completed
 - Swipe to delete tasks
-- Persistent storage using SQLite database
 - Clean and intuitive Material Design UI
 - Floating Action Button for quick task addition
 

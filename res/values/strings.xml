@@ -1,0 +1,12 @@
+<resources>
+    <string name="Tasker">ProjectApp</string>
+    <string name="app_name">Do It</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Completed</item>
+        <item>Pending</item>
+    </string-array>
+</resources>

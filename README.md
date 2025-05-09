@@ -32,15 +32,6 @@ _Just Do It_, a simple and efficient Android To-Do application that helps users 
 - Android Studio
 - Android SDK
 
-### Installation
-1. Clone the repository
-```bash
-git clone [your-repository-url]
-```
-
-2. Open the project in Android Studio
-3. Build and run the application
-
 ## Usage
 1. Launch the app
 2. Tap the floating action button (+) to add a new task

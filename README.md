@@ -31,7 +31,6 @@ _Just Do It_, a simple and efficient Android To-Do application that helps users 
 ### Prerequisites
 - Android Studio
 - Android SDK
-- Minimum SDK Version: [Add your minimum SDK version]
 
 ### Installation
 1. Clone the repository
